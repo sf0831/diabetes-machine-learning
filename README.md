@@ -23,9 +23,9 @@ Welcome to the Diabetes Predictor project! This project aims to predict diabetes
 
 ## 🛠️ File Structure
 
-- `main.py`: Main script containing the implementation of linear regression models.
-- `data_preprocessing.ipynb`: Jupyter notebook demonstrating data preprocessing steps.
-- `polynomial_regression.ipynb`: Jupyter notebook showcasing polynomial regression models.
+- `main.ipynb`: Main script containing the implementation of linear regression models.
+- Jupyter notebook demonstrating data preprocessing steps.
+- Jupyter notebook showcasing polynomial regression models.
 - `README.md`: You're currently reading this! 😊
 
 ## 🤝 Contributing
